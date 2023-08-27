@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi there 👋! My name is Sandarbh Singhal and I'm a programmer likes to code from my heart.</h2>
+<h2 align="left">Hi there 👋! Iam Nothing-avil and I'm a programmer likes to code from my heart.</h2>
 
 ###
 
