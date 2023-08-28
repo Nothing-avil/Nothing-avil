@@ -117,6 +117,12 @@ Here are some ideas to get you started:
   <a href="https://codesandbox.io/u/sandarbhsinghal123" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
   </a>
+  &nbsp;
+  <a href="https://leetcode.com/Nothing-avil/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="35"  />
+  </a>
+  &nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/sandarbhsi3d62" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="35" width="40" />
+  </a>
 </div>
 
 ###
