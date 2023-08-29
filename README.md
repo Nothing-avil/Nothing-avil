@@ -138,8 +138,6 @@ Here are some ideas to get you started:
 ### <img src="https://media.tenor.com/_m9BeUagaMkAAAAj/writing-hand-joypixels.gif" alt="Writing" width="30" /> Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=Nothing-avil&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting
