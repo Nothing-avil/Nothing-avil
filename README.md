@@ -99,8 +99,6 @@ Here are some ideas to get you started:
 
 ###
 
-<br>
-
 ###
 
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="30" /> Connect with me...</h3>
@@ -139,11 +137,14 @@ Here are some ideas to get you started:
 
 ###
 
+<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="250">
+
+###
+
+</br>
+
 ### <img src="https://media.tenor.com/_m9BeUagaMkAAAAj/writing-hand-joypixels.gif" alt="Writing" width="30" /> Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-
 ## <div align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting </div>
-
-
