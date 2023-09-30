@@ -141,9 +141,10 @@ Here are some ideas to get you started:
 
 ###
 
-</br>
+###
 
-### <img src="https://media.tenor.com/_m9BeUagaMkAAAAj/writing-hand-joypixels.gif" alt="Writing" width="30" /> Random Dev Quote
+<h3 align="left"> <img src="https://media.tenor.com/_m9BeUagaMkAAAAj/writing-hand-joypixels.gif" alt="Writing" width="30" /> Random Dev Quote </h3>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
