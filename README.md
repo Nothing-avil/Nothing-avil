@@ -137,8 +137,14 @@ Here are some ideas to get you started:
 
 ###
 
-## <img src="https://media.tenor.com/_m9BeUagaMkAAAAj/writing-hand-joypixels.gif" alt="Writing" width="30" /> Random Dev Quote
+<!--<img align="right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" height="300" >-->
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" height="300" >
+
+###
+
+## <img src="https://camo.githubusercontent.com/f13338164215198f2744fde1134e2e1827cdd416ad6957fd3f781728c5350290/68747470733a2f2f6d656469612e74656e6f722e636f6d2f5f6d394265556167614d6b414141416a2f77726974696e672d68616e642d6a6f79706978656c732e676966" alt="Writing" width="30" /> Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+<br>
 
-## <div align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting </div>
+## <div align="center" height="1" ><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting </div>
