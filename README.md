@@ -137,14 +137,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="250">
-
-###
-
-###
-
-<h3 align="left"> <img src="https://media.tenor.com/_m9BeUagaMkAAAAj/writing-hand-joypixels.gif" alt="Writing" width="30" /> Random Dev Quote </h3>
-
+## <img src="https://media.tenor.com/_m9BeUagaMkAAAAj/writing-hand-joypixels.gif" alt="Writing" width="30" /> Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
