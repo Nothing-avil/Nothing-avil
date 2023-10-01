@@ -143,7 +143,7 @@ Here are some ideas to get you started:
 ###
 
 ## <img src="https://camo.githubusercontent.com/f13338164215198f2744fde1134e2e1827cdd416ad6957fd3f781728c5350290/68747470733a2f2f6d656469612e74656e6f722e636f6d2f5f6d394265556167614d6b414141416a2f77726974696e672d68616e642d6a6f79706978656c732e676966" alt="Writing" width="30" /> Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br>
 
