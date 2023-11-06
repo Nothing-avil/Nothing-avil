@@ -115,8 +115,9 @@ C -->A
   <a href="https://codepen.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="40" alt="codepen logo"  /> </a> 
 </div>
 
+
 ###
-<br>
+
 <img align="right" height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
 
 ###
