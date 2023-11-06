@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=26&duration=2500&pause=500&lines=Hello+Geeks!👋;Welcome+to+my+profile!;Have+a+look+around!;See+you+in+coding!!🕊️&font=Fira%20Code&color=%23D62F79&center=true&width=350&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=18&duration=2500&pause=500&lines=Hello+Geeks!👋;Welcome+to+my+profile!;Have+a+look+around!;See+you+in+coding!!🕊️&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 
 <div align="center">
