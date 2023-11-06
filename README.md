@@ -83,6 +83,8 @@ C -->A
   <img src="https://streak-stats.demolab.com?user=Nothing-avil&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<br>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -114,7 +116,7 @@ C -->A
 </div>
 
 ###
-
+<br>
 <img align="right" height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
 
 ###
