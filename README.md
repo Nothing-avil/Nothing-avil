@@ -13,10 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hi there!!👋 I'm Nothing-avil and I'm a programmer likes to code from my heart.</h2>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
+<p align="center">
+    <h1 align="center">✩&emsp;Sandarbh Singhal&emsp;✩</h1>
+</p>
+<br>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=26&duration=2500&pause=500&lines=Hello+Geeks!👋;Welcome+to+my+profile!;Have+a+look+around!;See+you+in+coding!!🕊️&font=Fira%20Code&color=%23D62F79&center=true&width=350&height=50">
+</p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
@@ -28,6 +36,7 @@ Here are some ideas to get you started:
 <!--   <img src="&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
 <!--   https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaseth777&&show_icons=true&theme=dark -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nothing-avil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://leetcode.com/Nothing-avil/"><img width="48%" src="https://leetcode.card.workers.dev/Nothing-avil?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </div>
 
 
