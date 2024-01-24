@@ -168,9 +168,12 @@ C -->A
 
 ###
 
-## <img src="https://camo.githubusercontent.com/f13338164215198f2744fde1134e2e1827cdd416ad6957fd3f781728c5350290/68747470733a2f2f6d656469612e74656e6f722e636f6d2f5f6d394265556167614d6b414141416a2f77726974696e672d68616e642d6a6f79706978656c732e676966" alt="Writing" width="30" /> Random Dev Quote
+## <img src="https://www.icegif.com/wp-content/uploads/writing-icegif-9.gif" alt="Writing" width="60" height="30" /> Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br>
 
 ## <div align="center" height="1" ><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting </div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Nothing-avil&icon=0&color=1)](https://visitcount.itsvg.in)
