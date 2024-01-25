@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   <a href="https://leetcode.com/Nothing-avil/"><img width="48%" src="https://leetcode.card.workers.dev/Nothing-avil?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 
 ## Hello, Nice to Meet You !!
 
@@ -69,16 +70,18 @@ Here are some ideas to get you started:
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝▄█╗
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝ ╚═╝
 ```
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 
 ## DAILY RECURSIVE CYCLE
 
 ```mermaid
 flowchart LR
 
-A(SLEEP) -->B(WORK)
+A(SLEEP) -->B(CODE)
 B --> C(EAT)
 C -->A
 ```
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />    My Stats :</h3>
 
@@ -87,6 +90,7 @@ C -->A
 </div>
 
 <br>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 
 ###
 
@@ -118,12 +122,13 @@ C -->A
   <a href="https://codepen.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="40" alt="codepen logo"  /> </a> 
 </div>
 
-
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
 
 ###
+
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
 
 ###
 
@@ -155,13 +160,23 @@ C -->A
 
 ###
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nothing-avil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ###
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+
+## 🐍 Snake-Eating My Contribution
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Nothing-avil/Nothing-avil/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 
 <!--<img align="right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" height="300" >-->
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="200" height="250" >
@@ -175,5 +190,6 @@ C -->A
 
 ## <div align="center" height="1" ><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Nothing-avil&icon=0&color=1)](https://visitcount.itsvg.in)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1500">
+
+[![](https://visitcount.itsvg.in/api?id=Nothing-avil&icon=0&color=0)](https://visitcount.itsvg.in)
