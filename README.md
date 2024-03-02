@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <p align="center">
-    <h1 align="center" href="https://github.com/Nothing-avil/">✩&emsp;Sandarbh Singhal&emsp;✩</h1>
+    <h1 align="center">✩&emsp;Sandarbh Singhal&emsp;✩</h1>
 </p>
 <br>
 <p align="center">
