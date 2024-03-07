@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <!--   <img src="&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
 <!--   https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaseth777&&show_icons=true&theme=dark -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nothing-avil&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-<!--   <a href="https://leetcode.com/Nothing-avil/"><img width="48%" src="https://leetcard.jacoblin.cool/Nothing-avil?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a> -->
+  <a href="https://leetcode.com/Nothing-avil/"><img width="48%" src="https://leetcard.jacoblin.cool/Nothing-avil?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 <!--     <a href="https://leetcode.com/Nothing-avil/"><img width="48%" src="https://leetcode.card.workers.dev/Nothing-avil?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a> -->
 </div>
 
@@ -193,3 +193,4 @@ C -->A
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1500">
 
+[![](https://visitcount.itsvg.in/api?id=Nothing-avil&icon=5&color=11)](https://visitcount.itsvg.in)
