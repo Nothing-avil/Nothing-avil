@@ -31,11 +31,12 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
+  <a href="https://leetcode.com/Nothing_avil/"><img width="48%" src="https://leetcard.jacoblin.cool/Nothing_avil?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nothing-avil&&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=2" height="150" alt="stats graph"  />
 <!--   <img src="&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
 <!--   https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaseth777&&show_icons=true&theme=dark -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nothing-avil&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <a href="https://leetcode.com/Nothing_avil/"><img width="48%" src="https://leetcard.jacoblin.cool/Nothing_avil?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 <!--     <a href="https://leetcode.com/Nothing-avil/"><img width="48%" src="https://leetcode.card.workers.dev/Nothing-avil?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a> -->
 </div>
 
