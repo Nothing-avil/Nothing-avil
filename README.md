@@ -28,11 +28,13 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-###
 
 <div align="center">
   <a href="https://leetcode.com/Nothing_avil/"><img width="48%" src="https://leetcard.jacoblin.cool/Nothing_avil?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
     <br/>
+    
+###
+    
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nothing-avil&&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=2" height="150" alt="stats graph"  />
 <!--   <img src="&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
 <!--   https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaseth777&&show_icons=true&theme=dark -->
