@@ -27,12 +27,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
 
 ###
 
@@ -43,6 +37,13 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nothing-avil&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <a href="https://leetcode.com/Nothing_avil/"><img width="48%" src="https://leetcard.jacoblin.cool/Nothing_avil?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 <!--     <a href="https://leetcode.com/Nothing-avil/"><img width="48%" src="https://leetcode.card.workers.dev/Nothing-avil?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a> -->
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
