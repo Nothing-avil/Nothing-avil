@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <a href="https://leetcode.com/Nothing_avil/"><img width="48%" src="https://leetcard.jacoblin.cool/Nothing_avil?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+  <a href="https://leetcode.com/Nothing_avil/"><img width="48%" src="https://leetcard.jacoblin.cool/Nothing_avil?theme=dark&font=baloo&extension=null&border=2&border_radius=8&ext=activity&ext=contest"></a>
     <br/>
     
 ###
